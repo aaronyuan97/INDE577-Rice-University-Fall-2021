@@ -6,6 +6,8 @@ NetID: my38
 ## Course Description
 This project contains all topics and projects from course INDE577, Data Science and Machine Learning, at Rice University in Spring 2022. Course topics cover algorithms of supervised learning and unsupervised learning. We learn from this course from machine learning algorithms to python-based application, we also learn how to make use of Scikit-Learn and Tensorflow libraries.
 
+![alt](https://i.ibb.co/Pj9YT8w/ml-ds-algos.jpg)
+
 ## Course Instructor
 Dr. Randy R. Davila, associate professor of University of Houston-Downtown.
 
