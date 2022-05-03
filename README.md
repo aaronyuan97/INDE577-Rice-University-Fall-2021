@@ -1,4 +1,4 @@
-# INDE577-Rice-University-Fall-2021
+# INDE577-Rice-University-Spring-2022
 Author: Mingze Yuan
 
 NetID: my38
